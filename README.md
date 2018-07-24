@@ -1,4 +1,2 @@
-Isto é apenas um teste
-alterando
-nova linha adicionada
-Alteracao feita no master
+Isto e apenas um teste
+Meu sitema de teste no GIt (alterado e atualizado)
