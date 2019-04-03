@@ -1,3 +1,3 @@
 Isto e apenas um teste
-Meu sitema de teste no GIt (alterado e atualizado)
+Meu sistema de teste no Git (alterado e atualizado)
 Teste revert
